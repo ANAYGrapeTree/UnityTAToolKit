@@ -1,5 +1,5 @@
 # UnityTAToolKit
-This repo collects tools that I use a lot, some of the tools is created by myself.
+This repo collects tools that I created and use a lot.
 
 # Create HLSL file
 A tool allows you create hlsl file directly in Unity editor.  
